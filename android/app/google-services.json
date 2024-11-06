@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905028683005",
+    "project_id": "investyuk-ec88b",
+    "storage_bucket": "investyuk-ec88b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905028683005:android:fa4960a69c348a7d382a94",
+        "android_client_info": {
+          "package_name": "com.example.investyuk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0NndGipONAakmab7iEFGtzOGAGaSMjAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
